@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 const Code = styled.code`
   display: inline-block;
@@ -12,8 +12,8 @@ const Code = styled.code`
     font-size: 1rem;
   }
   ::before {
-    content: "$ ";
+    content: '$ ';
   }
-`;
+`
 
-export default Code;
+export default Code
